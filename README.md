@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sagnik2000trainstation@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wDoQgejcjDTZh6_Jdrm34L1cmpxziSZX/view?usp=sharing](https://drive.google.com/file/d/1wDoQgejcjDTZh6_Jdrm34L1cmpxziSZX/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
