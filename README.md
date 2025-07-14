@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagnik Dasgupta</h1>
-<h3 align="center">A passionate Unity Game Programmer from India</h3>
+<h3 align="center">A Unity Game Programmer from India</h3>
 
 - 💬 Ask me about **Unity, C# and C++**
 
